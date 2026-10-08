@@ -25,5 +25,20 @@ welcome to **Byte Bites**, the first food run *entierly* by student coders! we s
     if (toal > 10) {
         console.log("you get a free cookie!");
     } else {
-        console.log("add )
+        console.log("Add $2 more for a free cookie!");
+    }
+    ```
+    ---
+>## What Customers Are Saying 
+> "best chopped cheese in east harlem, and the **free cookie** deal is *genius!*"
+---
+## Find us online
+Follow our daily location on [instagram](https://www.instagram.com/?hl=en), or read our reviwes on [yelp](https://www.yelp.com/).
+
+want to build an app like ours? Start learning here:
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+---
+` git push origin main` - the command we run every time we add a new item to the menu!
 
