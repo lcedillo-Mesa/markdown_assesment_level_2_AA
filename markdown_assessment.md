@@ -16,5 +16,14 @@ welcome to **Byte Bites**, the first food run *entierly* by student coders! we s
 
     - *fresh lemonade*
     ---
+    ## How our ordering works 
+    Every order is added up by our app. we use the `total` variable to keep track of the price:
+    ``` 
+    let total = 0;
+    total = total +8;
     
+    if (toal > 10) {
+        console.log("you get a free cookie!");
+    } else {
+        console.log("add )
 
